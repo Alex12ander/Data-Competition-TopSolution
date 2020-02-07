@@ -282,6 +282,7 @@ http://t.cn/ReIJOXK
 * Kaggle | Winner Interview http://blog.kaggle.com/2018/09/14/pei-lien-chou/
 * Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov http://t.cn/Eww4nnu
 * 2018 NIPS视觉对抗挑战总结 http://t.cn/EAMqw0P
+* 数据科学竞赛经验总结 https://github.com/yzkang/My-Data-Competition-Experience
 
 ### 六、数据集：
 【开放数据集大列表】《Open Datasets | Skymind》 http://t.cn/RFAoweW 
